@@ -1,0 +1,104 @@
+#contenitore {
+    border: 1px none #000;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 560px 0 560px;
+}
+
+#paside {
+    color: #187B7B;
+}
+
+#paside span {
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+#saside {
+    color: orangered;
+    font-size: 1.3em;
+    text-align: left;
+    text-indent: 21%;
+    margin-bottom: 3.5em;
+}
+
+#saside a {
+    color: #187B7B;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-align: left;
+}
+
+figure {
+    text-align: center;
+    width: auto;
+}
+#img_focaccia{
+    border-radius: 25px;
+}
+
+figcaption {
+    font-size: 1.2em;
+    color: grey;
+}
+
+#divisorio {
+    width: 100%;
+    height: 0.05em;
+    background-color: #FFD877;
+}
+
+h1 {
+    font-size: 3.5em;
+    margin-top: 1.5em;
+    text-align: center;
+    font-family: "Cookie", cursive;
+}
+
+h2 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 3em;
+    font-family: "Cookie", cursive;
+}
+
+.divisorio_secondo {
+    width: 100%;
+    height: 0.05em;
+    background-color: #187B7B;
+}
+
+.intest_lista {
+    font-weight: bold;
+    font-family: "Edu NSW ACT Foundation", cursive;
+    text-align: left;
+}
+
+ul {
+    text-align: left;
+    font-size: 1.4em;
+
+}
+
+.titolo_spiegazione {
+    text-align: left;
+    font-size: 2em;
+    font-family: "Edu NSW ACT Foundation", cursive;
+}
+
+h4 {
+    text-align: left;
+    font-size: 1.5em;
+    text-indent: 5%;
+}
+#chiusura{
+    font-size: 1.3em;
+    text-align: left;
+}
+footer{
+    text-align: left;
+    font-size: 1.3em;
+}
+footer a {
+    color:#187B7B;
+}
