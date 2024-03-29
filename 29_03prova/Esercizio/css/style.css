@@ -18,7 +18,7 @@ body {
 
 #banner img {
     width: 100%;
-    max-width: 200px;
+    max-width: 400px;
     margin: 10px auto;
 }
 /*HEADING CON LOGO FINE*/
@@ -28,7 +28,7 @@ h1 {
     line-height: 1.5;
     font-weight: bold;
     font-size: 3rem;
-    margin:10px
+    padding-top:10px;
 }
 
 #secondo_blocco { /*immagine sfondo grigia*/
@@ -64,7 +64,6 @@ h1 {
     font-size: 1.6rem;
     font-family: "Montserrat", sans-serif;
     font-weight: bold;
-    text-align: center;
     padding: 10px
 }
 
@@ -75,13 +74,13 @@ h1 {
     max-width: 600px;
 }
 
-#terzo_blocco {
+article > div{
     margin-bottom: 50px;
 }
 
 #blocco_arancio {
     background-color: #e22d0e;
-    padding: 10px;
+    padding: 10px 10px 40px 10px;
 }
 
 .contattaci {
@@ -103,8 +102,7 @@ blockquote p {
 
 #qblocco {
     margin-bottom: 100px;
-    padding:15px;
-    margin:10px 10vw;
+    margin:10px 6vw;
     
 }
 
@@ -131,8 +129,14 @@ footer a {
 }
 
 #copyright {
-    border-top: 1px solid white;
+    
     margin: 50px;
-    margin-bottom: 50px;
-    padding-top: 50px
+    margin-bottom:50px;
+    padding-top: 15px;
+}
+#lineabianca{
+    border: 1px solid white;
+    margin: 0 auto;
+    width: 25vh;
+    margin-top: 35px ;
 }
